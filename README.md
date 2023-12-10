@@ -10,7 +10,7 @@
 >Televizo「手机端」    
 ---
 ### EPG接口及源工具
-* [EPG] (https://epg.112114.xyz/)
+* [EPG](https://epg.112114.xyz/)
 ---
 ### 订阅地址「懒人必备」
 * [Gather.m3u](https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u)  
